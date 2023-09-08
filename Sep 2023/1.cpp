@@ -1,4 +1,4 @@
-// this is leetcode daily challenge of 2 Sept 2023
+// this is leetcode daily challenge of 1 Sept 2023
 // problem link : https://leetcode.com/problems/counting-bits/
 
 class Solution {
